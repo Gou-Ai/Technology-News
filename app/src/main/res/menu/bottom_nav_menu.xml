@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="首页" />
+    <item
+        android:id="@+id/menu_category"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="分类" />
+    <item
+        android:id="@+id/menu_favorite"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="收藏" />
+    <item
+        android:id="@+id/menu_history"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="历史" />
+</menu>
